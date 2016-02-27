@@ -1,7 +1,7 @@
 hexo-theme-material-indigo
 ================
 
-Material Design 风格的Hexo主题，基于 Hexo 3.0+ 制作。预览 [我的博客](http://www.imys.net/)
+Material Design 风格的Hexo主题，基于 Hexo 3.0+ 制作。预览 [我的博客](http://www.wenchaos.com/)
 
 ## 特色
 
