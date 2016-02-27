@@ -12,6 +12,7 @@ Material Design 风格的Hexo主题，基于 Hexo 3.0+ 制作。预览 [我的�
 5. 添加了英文字体支持 Roboto。
 6. 添加了一些波纹效果。By [Waves](https://github.com/fians/Waves)
 7. 分享直接使用了 JiaThis API 接口，免去了一次加载请求。
+8. 基于他人实现的基础上，接下来我会进一步改善该主题
 
 ## 使用
 
